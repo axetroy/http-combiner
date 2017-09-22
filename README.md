@@ -1,5 +1,7 @@
 # http-combiner
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/axetroy/http-combiner.svg)](https://greenkeeper.io/)
+
 combine the many http request in one http reques with NodeJs implement.
 
 ## Installation
