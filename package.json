@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/axetroy/http-combiner#readme",
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.17.0",
     "body-parser": "^1.17.2",
     "co": "^4.6.0",
     "express": "^4.15.3"
